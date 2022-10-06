@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.23)
+project(Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers main.cpp)

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice_1_1_Erreurs_de_syntaxe",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_1_1_Erreurs_de_syntaxe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_1_1_Erreurs_de_syntaxe-Debug-8a63941ea949764174c6.json",
+					"name" : "Exercice_1_1_Erreurs_de_syntaxe",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Exercice 1.1 Erreurs de syntaxe/cmake-build-debug",
+		"source" : "C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Exercice 1.1 Erreurs de syntaxe"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

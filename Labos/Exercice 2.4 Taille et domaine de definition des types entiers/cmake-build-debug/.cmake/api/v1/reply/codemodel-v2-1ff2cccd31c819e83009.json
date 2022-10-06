@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers-Debug-6f3738398065c1a75b31.json",
+					"name" : "Exercice_2_4_Taille_et_domaine_de_definition_des_types_entiers",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Exercice 2.4 Taille et domaine de definition des types entiers/cmake-build-debug",
+		"source" : "C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Exercice 2.4 Taille et domaine de definition des types entiers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

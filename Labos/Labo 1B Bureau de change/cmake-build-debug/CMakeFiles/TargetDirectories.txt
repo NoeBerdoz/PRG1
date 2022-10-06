@@ -1,0 +1,3 @@
+C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Labo 1B Bureau de change/cmake-build-debug/CMakeFiles/Labo_1B_Bureau_de_change.dir
+C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Labo 1B Bureau de change/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/berdo/Documents/HEIG-VD/PRG1/Labos/Labo 1B Bureau de change/cmake-build-debug/CMakeFiles/rebuild_cache.dir
